@@ -3,6 +3,8 @@
 Markowitz **mean-variance optimisation** on a multi-asset (ASX + global) universe — the foundation of quantitative asset allocation used by asset managers and quant teams. The notebook maps the feasible risk-return space, solves for the **max-Sharpe (tangency)** and **minimum-variance** portfolios, and traces the full **efficient frontier**.
 
 ## What it does
+<img width="1353" height="779" alt="image" src="https://github.com/user-attachments/assets/9a4b7eee-70d8-4f0b-a210-f0c550a59c52" />
+
 
 | Step | Method |
 |------|--------|
